@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "DRIVEXPRESS-POS-SYSTEM/1.0.0": {
+        "runtime": {
+          "DRIVEXPRESS-POS-SYSTEM.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DRIVEXPRESS-POS-SYSTEM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
